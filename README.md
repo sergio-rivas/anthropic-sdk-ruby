@@ -1,4 +1,4 @@
-# Anthropic::Sdk::Ruby
+# Anthropic SDK
 
 TODO: Delete this and the text below, and describe your gem
 
